@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718196670749",
+    "project_id": "caloriecalculator-ecef5",
+    "storage_bucket": "caloriecalculator-ecef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718196670749:android:600ae5a9f44261f3efe1f4",
+        "android_client_info": {
+          "package_name": "com.example.fluttercalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718196670749-5j8vddv9ict2isi3svolbihci7giqq39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVNDUjzbDgZQIIT9hO1u9Cfs8n2uSAcLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718196670749-5j8vddv9ict2isi3svolbihci7giqq39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
